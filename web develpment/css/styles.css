@@ -1,0 +1,40 @@
+ body {
+            background-color: #cadefc;
+        }
+
+        .header {
+            background-color: rgb(155, 161, 142);
+        }
+
+        img {
+            border-radius: 100%;
+            border-style: double;
+            border-left-color: blanchedalmond;
+            border-top-style: dotted;
+            border-top-color: red;
+            border-right-color: green;
+            border-block-end-color: greenyellow;
+        }
+
+        hr {
+            border-style: none;
+            border-top-style: dotted;
+            border-color: grey;
+            border-width: 5px;
+            width: 5%;
+        }
+
+        h2 {
+            color: #b90811;
+            background-color: whitesmoke;
+        }
+
+        h3 {
+            color: rgb(68, 17, 161) ;
+        }
+
+        form {
+            background-color: rgb(192, 194, 196);
+            color: rgb(8, 6, 17);
+            font-size: 20px;
+        }
