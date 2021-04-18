@@ -8,12 +8,7 @@
 
         img {
             border-radius: 100%;
-            border-style: double;
-            border-left-color: blanchedalmond;
-            border-top-style: dotted;
-            border-top-color: red;
-            border-right-color: green;
-            border-block-end-color: greenyellow;
+            color: blue;
         }
 
         hr {
